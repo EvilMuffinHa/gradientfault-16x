@@ -1,0 +1,8 @@
+{
+    "parent": "block/arrowed_vertical",
+    "textures": {
+        "arrow": "blocks/furnace_arrow",
+        "plain": "blocks/furnace_top",
+        "front": "blocks/dropper_front_vertical"
+    }
+}
